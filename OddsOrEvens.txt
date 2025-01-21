@@ -1,0 +1,11 @@
+I got the idea for this game while attending Bellevue University and taking their Python Course.
+I do not remember the original author or code.
+I did this to experiment with the TK interface and in no way claim it to be my original code.
+I coded the coin flip successfully on my own.
+I was also successful in adding the buttons.
+I used ChatGpt to help me fix the betting and implement new frames.
+I was able to learn more about frames which is part of the point of this experiment.
+Updates I would like to make:
+	A new frame for when your pot is at zero that has a button that resets the game and allows you to play again.
+	I would also like to place the pot total at the top on the right so it stays visible on every screen.
+	I would also like to make it so that you can hit the enter and not just click the submit button to enter a bet. 
